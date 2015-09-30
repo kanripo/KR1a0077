@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 大易緝說
-#+DATE: 2015-09-23 09:34:55
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 21:56:42.608598
+#+PROPERTY: ID KR1a0077
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 續刊大易緝説始末
 <pb:KR1a0077_WYG_012-1a>¶
 　　　續刋大易緝説始末¶
 　澤昨於大德十年任澧州路推官咨呈本路節文云¶
@@ -98,4 +100,3 @@
 　不可无爰醵同志續鋟諸梓以與學者共峕延祐丙¶
 　辰日長至承直郎前常德路總管府推官居延田澤¶
 　拜首謹書¶
-
